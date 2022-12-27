@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackWallpaper</string>
+    <string name="jetpack">Jetpack Compose</string>
+</resources>
